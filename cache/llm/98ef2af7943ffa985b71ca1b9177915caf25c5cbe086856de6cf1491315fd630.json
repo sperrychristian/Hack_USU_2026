@@ -1,0 +1,21 @@
+{
+  "repo_summary": "Lead developer of BioSTEAM and core contributor to chemicals library.",
+  "strengths": [
+    "Lead developer of BioSTEAM",
+    "Core contributor to chemicals library",
+    "Learning pyqt for BioSTEAM plug-in"
+  ],
+  "weaknesses": [
+    "No explicit weaknesses mentioned",
+    "No explicit weaknesses mentioned",
+    "No explicit weaknesses mentioned"
+  ],
+  "suggested_improvements": [
+    "Add explicit weaknesses section",
+    "Include more details about projects",
+    "Consider adding a skills section"
+  ],
+  "skill_score": 80,
+  "notes": "Strong background in techno-economic analysis, life cycle assessment, and process simulation.",
+  "raw_output": "{\n  \"repo_summary\": \"Lead developer of BioSTEAM and core contributor to chemicals library.\",\n  \"strengths\": [\n    \"Lead developer of BioSTEAM\",\n    \"Core contributor to chemicals library\",\n    \"Learning pyqt for BioSTEAM plug-in\"\n  ],\n  \"weaknesses\": [\n    \"No explicit weaknesses mentioned\",\n    \"No explicit weaknesses mentioned\",\n    \"No explicit weaknesses mentioned\"\n  ],\n  \"suggested_improvements\": [\n    \"Add explicit weaknesses section\",\n    \"Include more details about projects\",\n    \"Consider adding a skills section\"\n  ],\n  \"skill_score\": 80,\n  \"notes\": \"Strong background in techno-economic analysis, life cycle assessment, and process simulation.\"\n}"
+}

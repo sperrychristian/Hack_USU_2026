@@ -1,0 +1,26 @@
+GitHub Activity Analyzer Report
+Username: chelseaharding
+Generated: 20260227_233934
+
+SUMMARY
+- repo_count: 12
+- total_stars: 0
+- avg_stars: 0.0
+- min_stars: 0
+- max_stars: 0
+
+TOP REPOS (by stars)
+- sp26_data_3500 | stars=0 | https://github.com/chelseaharding/sp26_data_3500
+- data_3500_in_class_code_FA_2025 | stars=0 | https://github.com/chelseaharding/data_3500_in_class_code_FA_2025
+- data_3500_code | stars=0 | https://github.com/chelseaharding/data_3500_code
+- testing | stars=0 | https://github.com/chelseaharding/testing
+- DATA_3500_SU_25 | stars=0 | https://github.com/chelseaharding/DATA_3500_SU_25
+- DATA3500_Homework_2 | stars=0 | https://github.com/chelseaharding/DATA3500_Homework_2
+- DATA3500_FA_24 | stars=0 | https://github.com/chelseaharding/DATA3500_FA_24
+- DATA_3500_SU24 | stars=0 | https://github.com/chelseaharding/DATA_3500_SU24
+- DATA3500_SP_24 | stars=0 | https://github.com/chelseaharding/DATA3500_SP_24
+- DATA3500_SP_2023 | stars=0 | https://github.com/chelseaharding/DATA3500_SP_2023
+
+TOP LANGUAGES
+- Python: 7
+- Jupyter Notebook: 3

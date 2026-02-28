@@ -1,0 +1,41 @@
+GitHub Activity Analyzer Report
+Username: Paorapotangaroa
+Generated: 20260228_010604
+
+SUMMARY
+- repo_count: 95
+- total_stars: 0
+- avg_stars: 0.0
+- min_stars: 0
+- max_stars: 0
+- active_30d: 1
+- active_90d: 2
+- active_365d: 24
+- stale_365d_plus: 71
+- archived_count: 0
+- licensed_count: 4
+- repos_with_issues: 1
+- total_open_issues: 1
+
+TOP REPOS (by stars)
+- SlackCloneBackendAPI | stars=0 | https://github.com/Paorapotangaroa/SlackCloneBackendAPI
+- Code-Alone-11 | stars=0 | https://github.com/Paorapotangaroa/Code-Alone-11
+- LibrariesAndAPIs | stars=0 | https://github.com/Paorapotangaroa/LibrariesAndAPIs
+- SlackWithBackend | stars=0 | https://github.com/Paorapotangaroa/SlackWithBackend
+- USU-Trivia-Game | stars=0 | https://github.com/Paorapotangaroa/USU-Trivia-Game
+- Code-Alone-9 | stars=0 | https://github.com/Paorapotangaroa/Code-Alone-9
+- DiceRoller | stars=0 | https://github.com/Paorapotangaroa/DiceRoller
+- Paorapotangaroa | stars=0 | https://github.com/Paorapotangaroa/Paorapotangaroa
+- 3D-Tic-Tac-Toe | stars=0 | https://github.com/Paorapotangaroa/3D-Tic-Tac-Toe
+- Economics | stars=0 | https://github.com/Paorapotangaroa/Economics
+
+TOP LANGUAGES
+- Python: 24
+- HTML: 17
+- JavaScript: 17
+- CSS: 13
+- Jupyter Notebook: 3
+- EJS: 3
+- HCL: 2
+- C#: 2
+- SCSS: 1

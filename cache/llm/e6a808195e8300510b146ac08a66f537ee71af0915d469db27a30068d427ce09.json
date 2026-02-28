@@ -1,0 +1,21 @@
+{
+  "repo_summary": "A simple test repository.",
+  "strengths": [
+    "Not enough evidence in sample to make a confident strength.",
+    "Not enough evidence in sample to make a confident strength.",
+    "Not enough evidence in sample to make a confident strength."
+  ],
+  "weaknesses": [
+    "Not enough evidence in sample to make a confident weakness.",
+    "Not enough evidence in sample to make a confident weakness.",
+    "Not enough evidence in sample to make a confident weakness."
+  ],
+  "suggested_improvements": [
+    "Add a README with setup, usage, and project goals.",
+    "Add a README with setup, usage, and project goals.",
+    "Add a README with setup, usage, and project goals."
+  ],
+  "skill_score": 0,
+  "notes": "This repository appears to be a basic test repository with no significant code or features.",
+  "raw_output": "{\n  \"repo_summary\": \"A simple test repository.\",\n  \"strengths\": [],\n  \"weaknesses\": [],\n  \"suggested_improvements\": [],\n  \"skill_score\": 0,\n  \"notes\": \"This repository appears to be a basic test repository with no significant code or features.\"\n}"
+}

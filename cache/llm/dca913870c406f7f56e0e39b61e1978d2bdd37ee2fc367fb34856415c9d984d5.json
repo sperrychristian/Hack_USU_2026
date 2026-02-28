@@ -1,0 +1,21 @@
+{
+  "repo_summary": "Thermopack is a thermodynamics library for multi-component and multi-phase thermodynamics developed at SINTEF Energy Research and NTNU Department of Chemistry.",
+  "strengths": [
+    "Thermodynamic calculations",
+    "Multi-component and multi-phase thermodynamics",
+    "Large selection of equations of state"
+  ],
+  "weaknesses": [
+    "Limited documentation for certain versions",
+    "Complex setup for certain interfaces",
+    "Limited support for certain operating systems"
+  ],
+  "suggested_improvements": [
+    "Improve documentation for certain versions",
+    "Simplify setup for certain interfaces",
+    "Increase support for certain operating systems"
+  ],
+  "skill_score": 80,
+  "notes": "Thermopack is a powerful thermodynamics library with a wide range of features, but may require significant setup and configuration.",
+  "raw_output": "{\n  \"repo_summary\": \"Thermopack is a thermodynamics library for multi-component and multi-phase thermodynamics developed at SINTEF Energy Research and NTNU Department of Chemistry.\",\n  \"strengths\": [\n    \"Thermodynamic calculations\",\n    \"Multi-component and multi-phase thermodynamics\",\n    \"Large selection of equations of state\"\n  ],\n  \"weaknesses\": [\n    \"Limited documentation for certain versions\",\n    \"Complex setup for certain interfaces\",\n    \"Limited support for certain operating systems\"\n  ],\n  \"suggested_improvements\": [\n    \"Improve documentation for certain versions\",\n    \"Simplify setup for certain interfaces\",\n    \"Increase support for certain operating systems\"\n  ],\n  \"skill_score\": 80,\n  \"notes\": \"Thermopack is a powerful thermodynamics library with a wide range of features, but may require significant setup and configuration.\"\n}"
+}

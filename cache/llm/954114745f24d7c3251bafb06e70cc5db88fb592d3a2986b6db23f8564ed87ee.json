@@ -1,0 +1,21 @@
+{
+  "repo_summary": "Touch'N'Stars: WebApp for mobile control of NINA (Nighttime Imaging 'N' Astronomy) software.",
+  "strengths": [
+    "Mobile operation: easily access NINA through your smartphone or tablet.",
+    "User-friendly design: simple and intuitive interface specifically optimized for mobile devices.",
+    "Supports basic functions of NINA software."
+  ],
+  "weaknesses": [
+    "Requires a fully configured and running installation of NINA.",
+    "Limited support for iOS users (no native app available).",
+    "Complex installation process."
+  ],
+  "suggested_improvements": [
+    "Improve installation process for Windows users.",
+    "Develop a native iOS app.",
+    "Enhance user interface for better mobile experience."
+  ],
+  "skill_score": 60,
+  "notes": "The project is in beta phase and requires further development to reach its full potential.",
+  "raw_output": "{\n  \"repo_summary\": \"Touch'N'Stars: WebApp for mobile control of NINA (Nighttime Imaging 'N' Astronomy) software.\",\n  \"strengths\": [\n    \"Mobile operation: easily access NINA through your smartphone or tablet.\",\n    \"User-friendly design: simple and intuitive interface specifically optimized for mobile devices.\",\n    \"Supports basic functions of NINA software.\"\n  ],\n  \"weaknesses\": [\n    \"Requires a fully configured and running installation of NINA.\",\n    \"Limited support for iOS users (no native app available).\",\n    \"Complex installation process.\"\n  ],\n  \"suggested_improvements\": [\n    \"Improve installation process for Windows users.\",\n    \"Develop a native iOS app.\",\n    \"Enhance user interface for better mobile experience.\"\n  ],\n  \"skill_score\": 60,\n  \"notes\": \"The project is in beta phase and requires further development to reach its full potential.\"\n}"
+}

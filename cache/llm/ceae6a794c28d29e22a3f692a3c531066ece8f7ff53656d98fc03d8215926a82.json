@@ -1,0 +1,21 @@
+{
+  "repo_summary": "N.I.N.A. is an astrophotography suite designed for all DSO imagers.",
+  "strengths": [
+    "Supports multiple camera SDKs",
+    "Designed for DSO imagers",
+    "Easier, faster, and more comfortable image acquisition"
+  ],
+  "weaknesses": [
+    "No information on project team or contributors",
+    "No clear information on testing or quality assurance",
+    "No information on project roadmap or future plans"
+  ],
+  "suggested_improvements": [
+    "Add project team and contributor information",
+    "Implement testing and quality assurance processes",
+    "Provide project roadmap and future plans"
+  ],
+  "skill_score": 80,
+  "notes": "The project appears to be well-maintained and actively developed, but could benefit from additional information on project team and contributors, testing and quality assurance, and project roadmap and future plans.",
+  "raw_output": "{\n  \"repo_summary\": \"N.I.N.A. is an astrophotography suite designed for all DSO imagers.\",\n  \"strengths\": [\n    \"Supports multiple camera SDKs\",\n    \"Designed for DSO imagers\",\n    \"Easier, faster, and more comfortable image acquisition\"\n  ],\n  \"weaknesses\": [\n    \"No information on project team or contributors\",\n    \"No clear information on testing or quality assurance\",\n    \"No information on project roadmap or future plans\"\n  ],\n  \"suggested_improvements\": [\n    \"Add project team and contributor information\",\n    \"Implement testing and quality assurance processes\",\n    \"Provide project roadmap and future plans\"\n  ],\n  \"skill_score\": 80,\n  \"notes\": \"The project appears to be well-maintained and actively developed, but could benefit from additional information on project team and contributors, testing and quality assurance, and project roadmap and future plans.\"\n}"
+}

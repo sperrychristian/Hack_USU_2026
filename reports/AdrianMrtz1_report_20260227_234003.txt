@@ -1,0 +1,19 @@
+GitHub Activity Analyzer Report
+Username: AdrianMrtz1
+Generated: 20260227_234003
+
+SUMMARY
+- repo_count: 3
+- total_stars: 0
+- avg_stars: 0.0
+- min_stars: 0
+- max_stars: 0
+
+TOP REPOS (by stars)
+- DeepForecasting_Webapp | stars=0 | https://github.com/AdrianMrtz1/DeepForecasting_Webapp
+- AdrianMrtz1 | stars=0 | https://github.com/AdrianMrtz1/AdrianMrtz1
+- kaggle-BYU-Locating-Flagella | stars=0 | https://github.com/AdrianMrtz1/kaggle-BYU-Locating-Flagella
+
+TOP LANGUAGES
+- TypeScript: 1
+- Jupyter Notebook: 1

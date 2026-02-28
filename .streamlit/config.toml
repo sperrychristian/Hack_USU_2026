@@ -1,0 +1,56 @@
+# ============================================================
+# Streamlit Theme Configuration
+#
+# In this project, I created a custom Streamlit theme to ensure
+# the user interface is clean, readable, and consistent across
+# different machines. By default, Streamlit may render in a dark
+# theme depending on the environment, which caused navy backgrounds
+# and readability issues.
+#
+# To avoid that, I explicitly force a light theme and define
+# all major color values here.
+#
+# This improves:
+# - Visual clarity
+# - Accessibility (contrast)
+# - UI consistency
+# - Professional presentation
+# ============================================================
+
+[theme]
+
+# I explicitly set the base theme to light so Streamlit does not
+# default to its dark navy theme.
+base="light"
+
+
+# This is the primary accent color used throughout the app.
+# It affects buttons, sliders, highlights, and interactive elements.
+# I selected a bright green to make the UI feel friendly and modern.
+primaryColor="#22C55E"
+
+
+# This controls the main background color of the entire application.
+# I use pure white to maximize readability and keep the interface clean.
+backgroundColor="#FFFFFF"
+
+
+# This sets the background color for secondary areas such as:
+# - The sidebar
+# - Expanders
+# - Containers
+# I chose a very light gray-blue to create subtle visual separation
+# without introducing dark tones.
+secondaryBackgroundColor="#F1F5F9"
+
+
+# This sets the default text color across the app.
+# I selected a dark navy tone to maintain strong contrast against white.
+# Good contrast is important for accessibility and readability.
+textColor="#0F172A"
+
+
+# This sets the global font family.
+# I use a sans-serif font because it is standard for modern UI design
+# and improves screen readability.
+font="sans serif"

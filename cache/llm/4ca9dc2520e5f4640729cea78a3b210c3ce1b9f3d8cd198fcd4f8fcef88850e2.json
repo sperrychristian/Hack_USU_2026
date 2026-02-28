@@ -1,0 +1,21 @@
+{
+  "repo_summary": "Repository for Hack USU 2026",
+  "strengths": [
+    "Repository is well-structured",
+    "README file is clear",
+    "No unnecessary files"
+  ],
+  "weaknesses": [
+    "Lack of detailed project description",
+    "No documentation on technologies used",
+    "No test cases"
+  ],
+  "suggested_improvements": [
+    "Add project goals and objectives",
+    "Include documentation on technologies and libraries used",
+    "Implement unit tests and integration tests"
+  ],
+  "skill_score": 60,
+  "notes": "The repository is a good start, but could benefit from more details on project goals and technologies used.",
+  "raw_output": "{\n  \"repo_summary\": \"Repository for Hack USU 2026\",\n  \"strengths\": [\"Repository is well-structured\", \"README file is clear\", \"No unnecessary files\"],\n  \"weaknesses\": [\"Lack of detailed project description\", \"No documentation on technologies used\", \"No test cases\"],\n  \"suggested_improvements\": [\"Add project goals and objectives\", \"Include documentation on technologies and libraries used\", \"Implement unit tests and integration tests\"],\n  \"skill_score\": 60,\n  \"notes\": \"The repository is a good start, but could benefit from more details on project goals and technologies used.\"\n}"
+}
